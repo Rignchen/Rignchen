@@ -40,6 +40,10 @@ I like strict and optimized languages, that's why my favorite language is rust.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" alt="github logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" alt="jetbrains logo"/>
+  <img width="12"/>
+  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" alt="docker logo"/>
+  <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" height="40" alt="vim logo"/>
 </div>
 
 ### 👀 Viewed languages/tool
@@ -54,6 +58,11 @@ I like strict and optimized languages, that's why my favorite language is rust.
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"/>
   <img width="12"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" height="30" alt="F# logo"/>
+</div>
+
+### 👀 Viewed tool
+<div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"/>
   <img width="12"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" alt="figma logo"/>
