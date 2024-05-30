@@ -46,7 +46,7 @@ I like strict and optimized languages, that's why my favorite language is rust.
   <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" height="40" width="40" alt="vim logo"/>
 </div>
 
-### 👀 Viewed languages/tool
+### 👀 Viewed languages
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="30" alt="c logo"/>
   <img width="12"/>
