@@ -79,85 +79,87 @@ class Table(Empty):
         table += "</table>"
         return table
 
-class Line(Empty):
-    def __str__(self):
-        return "---"
-
 if __name__ == "__main__":
-    sections = [
-        Section("📖 About me", Texts()),
-        Section("📈 Github Stats", Images(height=150)),
-        Section("🚀 Known Languages", Logos()),
-        Section("🛠️ Known Tools", Logos()),
-        Section("🔍 Languages Seen", Logos()),
-        Section("🔍 Tools Seen", Logos()),
-#        Section("🏆 Tier List", Logos()),
-        Section("", Images())
-    ]
+    sections = {
+        "about_me": Section("📖 About me", Texts()),
+        "github_stats": Section("📈 Github Stats", Images(height=150)),
+        "known_languages": Section("🚀 Known Languages", Logos()),
+        "known_tools": Section("🛠️ Known Tools", Logos()),
+        "languages_seen": Section("🔍 Languages Seen", Logos()),
+        "tools_seen": Section("🔍 Tools Seen", Logos()),
+        "tier_list": Section("🏆 Tier List", Logos()),
+        "snake": Section("", Images())
+    }
 
     # About me
-    sections[0].get().add_text("Hello I'm Rignchen, a swiss app dev student passionated in programmation.")
-    sections[0].get().add_text("I've been coding in mcfunction since I was 14 and learned python when I was 16.")
-    sections[0].get().add_text("I code for around 2-3 hours for fun and 7 hours for work, this number can go up to 12 hours during vacations.")
-    sections[0].get().add_text("I like strict and optimized languages, that's why my favorite language is rust.")
-#    sections[0].get().add_text("
+    sections["about_me"].get().add_text("Hello I'm Rignchen, a swiss app dev student passionated in programmation.")
+    sections["about_me"].get().add_text("I've been coding in mcfunction since I was 14 and learned python when I was 16.")
+    sections["about_me"].get().add_text("I code for around 2-3 hours for fun and 7 hours for work, this number can go up to 12 hours during vacations.")
+    sections["about_me"].get().add_text("I like strict and optimized languages, that's why my favorite language is rust.")
+#    sections["about_me"].get().add_text("
 
     # Github Stats
-    sections[1].add_holder(Align("center", Empty()))
-    sections[1].get().add_image("https://github-readme-stats.vercel.app/api?username=Rignchen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false", "Stats Graph")
-    sections[1].get().add_image("https://github-readme-stats.vercel.app/api/top-langs?username=Rignchen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false", "Languages Graph")
-#    sections[2].get().add_image("
+    sections["github_stats"].add_holder(Align("center", Empty()))
+    sections["github_stats"].get().add_image("https://github-readme-stats.vercel.app/api?username=Rignchen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false", "Stats Graph")
+    sections["github_stats"].get().add_image("https://github-readme-stats.vercel.app/api/top-langs?username=Rignchen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false", "Languages Graph")
+#    sections["github_stats"].get().add_image("
 
     # Languages
-    sections[2].add_holder(Align("left", Empty()))
-    sections[2].get().add_logo("Python", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg", "https://www.python.org/")
-    sections[2].get().add_logo("Java", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg", "https://www.java.com/")
-    sections[2].get().add_logo("Rust", "https://www.rust-lang.org/static/images/rust-logo-blk.svg", "https://www.rust-lang.org/")
-    sections[2].get().add_logo("SQLite", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg", "https://www.sqlite.org/")
-    sections[2].get().add_logo("PostgreSQL", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg", "https://www.postgresql.org/")
-    sections[2].get().add_logo("PHP", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg", "https://www.php.net/")
-#    sections[2"languages"].get().add_logo("
+    sections["known_languages"].add_holder(Align("left", Empty()))
+    sections["known_languages"].get().add_logo("Python", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg", "https://www.python.org/")
+    sections["known_languages"].get().add_logo("Java", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg", "https://www.java.com/")
+    sections["known_languages"].get().add_logo("Rust", "https://www.rust-lang.org/static/images/rust-logo-blk.svg", "https://www.rust-lang.org/")
+    sections["known_languages"].get().add_logo("SQLite", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg", "https://www.sqlite.org/")
+    sections["known_languages"].get().add_logo("PostgreSQL", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg", "https://www.postgresql.org/")
+    sections["known_languages"].get().add_logo("PHP", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg", "https://www.php.net/")
+#    sections["known_languages"].get().add_logo("
 
     # Tools
-    sections[3].add_holder(Align("left", Empty()))
-    sections[3].get().add_logo("VSCode", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg", "https://code.visualstudio.com/")
-    sections[3].get().add_logo("Git", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg", "https://git-scm.com/")
-    sections[3].get().add_logo("GitHub", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg", "https://github.com")
-    sections[3].get().add_logo("JetBrains", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg", "https://www.jetbrains.com/")
-    sections[3].get().add_logo("Docker", "https://cdn.worldvectorlogo.com/logos/docker.svg", "https://www.docker.com/")
-    sections[3].get().add_logo("Vim", "https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg", "https://www.vim.org/")
-#    sections[3].get().add_logo("
+    sections["known_tools"].add_holder(Align("left", Empty()))
+    sections["known_tools"].get().add_logo("VSCode", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg", "https://code.visualstudio.com/")
+    sections["known_tools"].get().add_logo("Git", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg", "https://git-scm.com/")
+    sections["known_tools"].get().add_logo("GitHub", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg", "https://github.com")
+    sections["known_tools"].get().add_logo("JetBrains", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg", "https://www.jetbrains.com/")
+    sections["known_tools"].get().add_logo("Docker", "https://cdn.worldvectorlogo.com/logos/docker.svg", "https://www.docker.com/")
+    sections["known_tools"].get().add_logo("Vim", "https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg", "https://www.vim.org/")
+#    sections["known_tools"].get().add_logo("
 
     # Languages Seen
-    sections[4].add_holder(Align("left", Empty()))
-    sections[4].get().add_logo("C", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg", "https://en.wikipedia.org/wiki/C_(programming_language)")
-    sections[4].get().add_logo("html", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", "https://developer.mozilla.org/docs/Web/HTML")
-    sections[4].get().add_logo("css", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg", "https://developer.mozilla.org/docs/Web/CSS")
-    sections[4].get().add_logo("JavaScript", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", "https://developer.mozilla.org/docs/Web/JavaScript")
-    sections[4].get().add_logo("TypeScript", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg", "https://www.typescriptlang.org/")
-    sections[4].get().add_logo("F#", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg", "https://fsharp.org/")
-    sections[4].get().add_logo("D lang", "https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg", "https://dlang.org/")
-    sections[4].get().add_logo("Objective-C", "https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png", "https://developer.apple.com/documentation/objectivec")
-#    sections[4].get().add_logo("
+    sections["languages_seen"].add_holder(Align("left", Empty()))
+    sections["languages_seen"].get().add_logo("C", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg", "https://en.wikipedia.org/wiki/C_(programming_language)")
+    sections["languages_seen"].get().add_logo("html", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg", "https://developer.mozilla.org/docs/Web/HTML")
+    sections["languages_seen"].get().add_logo("css", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg", "https://developer.mozilla.org/docs/Web/CSS")
+    sections["languages_seen"].get().add_logo("JavaScript", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", "https://developer.mozilla.org/docs/Web/JavaScript")
+    sections["languages_seen"].get().add_logo("TypeScript", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg", "https://www.typescriptlang.org/")
+    sections["languages_seen"].get().add_logo("F#", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg", "https://fsharp.org/")
+    sections["languages_seen"].get().add_logo("D lang", "https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg", "https://dlang.org/")
+    sections["languages_seen"].get().add_logo("Objective-C", "https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png", "https://developer.apple.com/documentation/objectivec")
+#    sections["languages_seen"].get().add_logo("
 
     # Tools Seen
-    sections[5].add_holder(Align("left", Empty()))
-    sections[5].get().add_logo("Angular", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg", "https://angular.io/")
-    sections[5].get().add_logo("Figma", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg", "https://www.figma.com/")
-#    Sections[5].get().add_logo("
+    sections["tools_seen"].add_holder(Align("left", Empty()))
+    sections["tools_seen"].get().add_logo("Angular", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg", "https://angular.io/")
+    sections["tools_seen"].get().add_logo("Figma", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg", "https://www.figma.com/")
+#    Sections["tools_seen"].get().add_logo("
 
     # Tier List
 
     # Snake
-    sections[6].add_holder(Align("center", Empty()))
-    sections[6].get().add_image("https://raw.githubusercontent.com/Rignchen/Rignchen/output/snake.svg", "Snake Animation")
-
+    sections["snake"].add_holder(Align("center", Empty()))
+    sections["snake"].get().add_image("https://raw.githubusercontent.com/Rignchen/Rignchen/output/snake.svg", "Snake Animation")
+#    sections["snake"].get().add_image("
 
     # Write the README
-    sections.insert(6, Line())
-    sections.insert(2, Line())
-    sections.insert(1, Line())
-    readme = '# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>\n\n'
-    readme += "\n".join([str(section) for section in sections])
-    write_file("README.md", readme)
+    write_file("README.md", f'''# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
+
+{sections["about_me"]}
+---
+{sections["github_stats"]}
+---
+{sections["known_languages"]}
+{sections["known_tools"]}
+{sections["languages_seen"]}
+{sections["tools_seen"]}
+---
+{sections["snake"]}''')
 
