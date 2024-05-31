@@ -2,78 +2,84 @@
 
 ### 📖 About me
 Hello I'm Rignchen, a swiss app dev student passionated in programmation.\
-I've been coding in mcfunction since I was 14 and learned python when I was 16\
+I've been coding in mcfunction since I was 14 and learned python when I was 16.\
 I code for around 2-3 hours for fun and 7 hours for work, this number can go up to 12 hours during vacations.\
 I like strict and optimized languages, that's why my favorite language is rust.
 
 ---
-
-### 📊 Github Stats
+### 📈 Github Stats
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Rignchen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=Rignchen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"/>
+<img src='https://github-readme-stats.vercel.app/api?username=Rignchen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false' alt='Stats Graph' height=150>
+<img src='https://github-readme-stats.vercel.app/api/top-langs?username=Rignchen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false' alt='Languages Graph' height=150>
 </div>
 
 ---
-
-### 🔨 Known Languages:
+### 🚀 Known Languages
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" width="30" alt="python logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" width="30" alt="java logo"/>
-  <img width="12"/>
-  <img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" height="30" width="30" alt="rust logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" height="30" width="30" alt="sqlite logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" width="30" alt="postgresql logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="30" width="30" alt="php logo"/>
+<a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://www.java.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" alt="Java" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="30" width="30"></a>
+<img width="12"/>
+
 </div>
 
-### 🛠️ Known Tools:
+### 🛠️ Known Tools
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" width="40" alt="vscode logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" width="40" alt="git logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="40" width="40" alt="github logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" height="40" width="40" alt="jetbrains logo"/>
-  <img width="12"/>
-  <img src="https://cdn.worldvectorlogo.com/logos/docker.svg" height="40" width="40" alt="docker logo"/>
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" height="40" width="40" alt="vim logo"/>
+<a href="https://code.visualstudio.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VSCode" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://git-scm.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://github.com"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://www.jetbrains.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg" alt="JetBrains" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://www.docker.com/"><img src="https://cdn.worldvectorlogo.com/logos/docker.svg" alt="Docker" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://www.vim.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" height="30" width="30"></a>
+<img width="12"/>
+
 </div>
 
-### 👀 Viewed languages
+### 🔍 Languages Seen
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="30" width="30" alt="c logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" width="30" alt="html5 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" width="30" alt="css3 logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" width="30" alt="javascript logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" width="30" alt="typescript logo"/>
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/6/66/F_Sharp_logo.svg" height="30" width="30" alt="F# logo"/>
-  <img width="12"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg" height="30" width="30" alt="D lang logo">
-  <img width="12"/>
-  <img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" height="30" width="30" alt="Obj C logo"
+<a href="https://en.wikipedia.org/wiki/C_(programming_language)"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://developer.mozilla.org/docs/Web/HTML"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="html" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://developer.mozilla.org/docs/Web/CSS"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="css" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://fsharp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" alt="F#" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://dlang.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg" alt="D lang" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://developer.apple.com/documentation/objectivec"><img src="https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png" alt="Objective-C" height="30" width="30"></a>
+<img width="12"/>
+
 </div>
 
-### 👀 Viewed tool
+### 🔍 Tools Seen
 <div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" width="40" alt="angularjs logo"/>
-  <img width="12"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="40" width="40" alt="figma logo"/>
+<a href="https://angular.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" alt="Angular" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://www.figma.com/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" alt="Figma" height="30" width="30"></a>
+<img width="12"/>
+
 </div>
 
 ---
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/Rignchen/Rignchen/output/snake.svg" alt="Snake animation"/>
+### 
+<div align="center">
+<img src='https://raw.githubusercontent.com/Rignchen/Rignchen/output/snake.svg' alt='Snake Animation'>
+</div>

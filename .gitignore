@@ -1,0 +1,8 @@
+# vim temp file
+*.sw[pom]
+# nohup
+nohup.out
+# python cache
+__pycache__/
+# ide project files
+.idea/
