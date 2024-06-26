@@ -100,7 +100,7 @@ if __name__ == "__main__":
 
     # Github Stats
     sections["github_stats"].add_holder(Align("center", Empty()))
-    sections["github_stats"].get().add_image("https://github-readme-stats.vercel.app/api?username=Rignchen&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false", "Stats Graph")
+    sections["github_stats"].get().add_image("https://github-readme-stats.vercel.app/api?username=Rignchen&show_icons=true&theme=dark#gh-dark-mode-only", "Stats Graph")
     sections["github_stats"].get().add_image("https://github-readme-stats.vercel.app/api/top-langs?username=Rignchen&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false", "Languages Graph")
 #    sections["github_stats"].get().add_image("
 
