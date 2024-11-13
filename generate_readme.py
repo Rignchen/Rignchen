@@ -124,6 +124,7 @@ if __name__ == "__main__":
 	sections["known_tools"].get().add_logo("JetBrains", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jetbrains/jetbrains-original.svg", "https://www.jetbrains.com/")
 	sections["known_tools"].get().add_logo("Docker", "https://cdn.worldvectorlogo.com/logos/docker.svg", "https://www.docker.com/")
 	sections["known_tools"].get().add_logo("Vim", "https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg", "https://www.vim.org/")
+	sections["known_tools"].get().add_logo("Nvim", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg", "https://neovim.io/")
 #	sections["known_tools"].get().add_logo("
 
 	# Languages Seen

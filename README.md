@@ -49,6 +49,8 @@ I like strict and optimized languages, that's why my favorite language is rust.
 <img width="12"/>
 <a href="https://www.vim.org/"><img src="https://upload.wikimedia.org/wikipedia/commons/9/9f/Vimlogo.svg" alt="Vim" height="30" width="30"></a>
 <img width="12"/>
+<a href="https://neovim.io/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/neovim/neovim-original.svg" alt="Nvim" height="30" width="30"></a>
+<img width="12"/>
 
 </div>
 
