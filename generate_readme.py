@@ -109,9 +109,11 @@ if __name__ == "__main__":
 	sections["known_languages"].get().add_logo("Python", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg", "https://www.python.org/")
 	sections["known_languages"].get().add_logo("Java", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg", "https://www.java.com/")
 	sections["known_languages"].get().add_logo("Rust", "https://www.rust-lang.org/static/images/rust-logo-blk.svg", "https://www.rust-lang.org/")
+	sections["known_languages"].get().add_logo("Bash", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg", "https://www.gnu.org/software/bash/")
 	sections["known_languages"].get().add_logo("SQLite", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg", "https://www.sqlite.org/")
 	sections["known_languages"].get().add_logo("PostgreSQL", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg", "https://www.postgresql.org/")
 	sections["known_languages"].get().add_logo("PHP", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg", "https://www.php.net/")
+	sections["known_languages"].get().add_logo("C#", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg", "https://docs.microsoft.com/en-us/dotnet/csharp/")
 #	sections["known_languages"].get().add_logo("
 
 	# Tools
@@ -131,6 +133,7 @@ if __name__ == "__main__":
 	sections["languages_seen"].get().add_logo("css", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg", "https://developer.mozilla.org/docs/Web/CSS")
 	sections["languages_seen"].get().add_logo("JavaScript", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg", "https://developer.mozilla.org/docs/Web/JavaScript")
 	sections["languages_seen"].get().add_logo("TypeScript", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg", "https://www.typescriptlang.org/")
+	sections["languages_seen"].get().add_logo("Powershell", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg", "https://docs.microsoft.com/en-us/powershell/")
 	sections["languages_seen"].get().add_logo("F#", "https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg", "https://fsharp.org/")
 	sections["languages_seen"].get().add_logo("D lang", "https://upload.wikimedia.org/wikipedia/commons/2/24/D_Programming_Language_logo.svg", "https://dlang.org/")
 	sections["languages_seen"].get().add_logo("Objective-C", "https://seeklogo.com/images/O/objective-c-logo-81746870EF-seeklogo.com.png", "https://developer.apple.com/documentation/objectivec")

@@ -22,11 +22,15 @@ I like strict and optimized languages, that's why my favorite language is rust.
 <img width="12"/>
 <a href="https://www.rust-lang.org/"><img src="https://www.rust-lang.org/static/images/rust-logo-blk.svg" alt="Rust" height="30" width="30"></a>
 <img width="12"/>
+<a href="https://www.gnu.org/software/bash/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" alt="Bash" height="30" width="30"></a>
+<img width="12"/>
 <a href="https://www.sqlite.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" alt="SQLite" height="30" width="30"></a>
 <img width="12"/>
 <a href="https://www.postgresql.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" height="30" width="30"></a>
 <img width="12"/>
 <a href="https://www.php.net/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" alt="PHP" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://docs.microsoft.com/en-us/dotnet/csharp/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="C#" height="30" width="30"></a>
 <img width="12"/>
 
 </div>
@@ -59,6 +63,8 @@ I like strict and optimized languages, that's why my favorite language is rust.
 <a href="https://developer.mozilla.org/docs/Web/JavaScript"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" height="30" width="30"></a>
 <img width="12"/>
 <a href="https://www.typescriptlang.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" height="30" width="30"></a>
+<img width="12"/>
+<a href="https://docs.microsoft.com/en-us/powershell/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/powershell/powershell-original.svg" alt="Powershell" height="30" width="30"></a>
 <img width="12"/>
 <a href="https://fsharp.org/"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fsharp/fsharp-original.svg" alt="F#" height="30" width="30"></a>
 <img width="12"/>
