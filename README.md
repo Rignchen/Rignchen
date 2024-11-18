@@ -7,6 +7,11 @@ I code for around 2-3 hours for fun and 7 hours for work, this number can go up 
 I like strict and optimized languages, that's why my favorite language is rust.
 
 ---
+<!-- my-badges start -->
+<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>
+<!-- my-badges end -->
+
+---
 ### 📈 Github Stats
 <div align="center">
 <img src='https://github-readme-stats.vercel.app/api?username=Rignchen&show_icons=true&theme=dark#gh-dark-mode-only' alt='Stats Graph' height=150>
