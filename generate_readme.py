@@ -1,3 +1,5 @@
+from requests import get as get_request
+
 def write_file(filename, content):
 	with open(filename, "w") as file:
 		file.write(content)
@@ -79,9 +81,27 @@ class Table(Empty):
 		table += "</table>"
 		return table
 
+class Badges(Empty):
+	def __init__(self, username):
+		self.username = username
+		# https://raw.githubusercontent.com/username/username/refs/heads/main/README.md
+		# content = <!-- my-badges start -->badges<!-- my-badges end -->
+		badges = get_request(f"https://raw.githubusercontent.com/{username}/{username}/refs/heads/main/README.md").text
+		start = "<!-- my-badges start -->"
+		end = "<!-- my-badges end -->"
+		start_index = badges.find(start)
+		end_index = badges.find(end) + len(end)
+		if start_index == -1 or end_index == -1:
+			self.content = f'{start}\n<h4><a href="https://github.com/my-badges/my-badges">My Badges</a></h4>\n{end}'
+		else:
+			self.content = badges[start_index:end_index]
+	def __str__(self):
+		return self.content + "\n"
+
 if __name__ == "__main__":
 	sections = {
 		"about_me": Section("📖 About me", Texts()),
+		"badges": Holder(Badges("Rignchen")),
 		"github_stats": Section("📈 Github Stats", Images(height=150)),
 		"known_languages": Section("🚀 Known Languages", Logos()),
 		"known_tools": Section("🛠️ Known Tools", Logos()),
@@ -157,6 +177,8 @@ if __name__ == "__main__":
 	write_file("README.md", f'''# Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> </h1>
 
 {sections["about_me"]}
+---
+{sections["badges"]}
 ---
 {sections["github_stats"]}
 ---
