@@ -31,7 +31,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/2974265ca1d8a8d00a304c14b9e2dcffdcc6654c\">2974265</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/45d56744aef9360879dfcade8699586dff859aef\">45d5674</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/99de857d57e8bbd7f8acda77b3727c0a719adca3\">99de857</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/a6c5a6ba3ada737a6acc6278b6070a557a66cc54\">a6c5a6b</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/e0eeded9c8267459a5c6fda568594787960945c0\">e0eeded</a>\n- <a href=\"https://github.com/Rignchen/worm_hole/commit/717cf69751058c2442f0b064c3ba20af3e1aafdf\">717cf69</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dotfile/commit/f89d8bdb05ec6567407bd44511259896edc84f70\">f89d8bd</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/2974265ca1d8a8d00a304c14b9e2dcffdcc6654c\">2974265</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/45d56744aef9360879dfcade8699586dff859aef\">45d5674</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/99de857d57e8bbd7f8acda77b3727c0a719adca3\">99de857</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/a6c5a6ba3ada737a6acc6278b6070a557a66cc54\">a6c5a6b</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/e0eeded9c8267459a5c6fda568594787960945c0\">e0eeded</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"feat:\".",
-    "body": "My favorite commit message words are:\n\n1. feat: (used 587 times)\n2. the (used 575 times)\n3. to (used 521 times)\n4. add (used 366 times)\n5. in (used 255 times)",
+    "body": "My favorite commit message words are:\n\n1. feat: (used 588 times)\n2. the (used 575 times)\n3. to (used 521 times)\n4. add (used 366 times)\n5. in (used 256 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -117,5 +117,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/Gigantica/commit/89581172350063262fbd24ae7ec3455163add8f1\">8958117</a>\n- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/345345b2473e5584182a24e6688e6ed417b961b4\">345345b</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "spooky-commit",
+    "tier": 0,
+    "desc": "I committed on the Halloween! Boo!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/depot/commit/25f4fe07aebd52852b70725fd52672683c9314af\">25f4fe0</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/2c23cb32f15b0a24a821eda7ee5b244efe5ac95b\">2c23cb3</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/6b31a11e86f15d59249059da3b6a796384412326\">6b31a11</a>",
+    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   }
 ]
