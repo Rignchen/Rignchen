@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/dotfile/commit/0a5da780b819203baea1a2a52fce357ff5446486">0a5da78</a>: fix(kitty): allow to zoom without numpad
-- <a href="https://github.com/Rignchen/dotfile/commit/c9d37661ddfbecf639410ef12e73e8908d30641d">c9d3766</a>: fix(git): get-url now realy get branch name
-- <a href="https://github.com/Rignchen/dotfile/commit/be224b46b4b2cc5b5c66f2e9f85c69de7604247c">be224b4</a>: fix(omp): no more unwanted new line
+- <a href="https://github.com/Rignchen/worm_hole/commit/9bbd75547c303054d1ca02785ddf76d2b60fc66b">9bbd755</a>: fix: send error message when path to alias no longer exist
+- <a href="https://github.com/Rignchen/worm_hole/commit/9aa00b97c4b5c419fed545912bfce5b38eeca4c6">9aa00b9</a>: fix: output a clean error when alias not found
+- <a href="https://github.com/Rignchen/worm_hole/commit/d4610091fee79c5b3cd0d254a1baabfc4ce43345">d461009</a>: fix: don't allow to put aliases on files
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

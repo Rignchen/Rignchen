@@ -3,28 +3,28 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/Rignchen/worm_hole/commit/a5a07f4dd45cf9f6e2337da5333e2a2a5fa81c36\"><strong>a</strong>5a07f4dd45cf9f6e2337da5333e2a2a5fa81c36</a>",
+    "body": "- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/a7996fc7fd8a1f2c837dd590e6e865243c05a68b\"><strong>a</strong>7996fc7fd8a1f2c837dd590e6e865243c05a68b</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
     "id": "ab-commit",
     "tier": 2,
     "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/Rignchen/vim-http/commit/ab7d9093efc663f754c16da63067b072678ca926\"><strong>ab</strong>7d9093efc663f754c16da63067b072678ca926</a>",
+    "body": "- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/ab489c4ce503cf566100b3257bdd9eeb231b3560\"><strong>ab</strong>489c4ce503cf566100b3257bdd9eeb231b3560</a>",
     "image": "https://my-badges.github.io/my-badges/ab-commit.png"
   },
   {
     "id": "cafe-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"cafe\" 5 times.",
-    "body": "- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/d0920cacafe1efd0a48144184150431a62bfaaf2\">d0920ca<strong>cafe</strong>1efd0a48144184150431a62bfaaf2</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/67d6da2cafe626cc797020d8dc4038efa77e7adc\">67d6da2<strong>cafe</strong>626cc797020d8dc4038efa77e7adc</a>\n- <a href=\"https://github.com/Rignchen/Gigantica/commit/b46fcacafea9c6c64d188887b85a14df247f15ab\">b46fca<strong>cafe</strong>a9c6c64d188887b85a14df247f15ab</a>\n- <a href=\"https://github.com/Rignchen/grades-calculator/commit/2a31049c531fac373e76cafe8cdc8aeb570879c6\">2a31049c531fac373e76<strong>cafe</strong>8cdc8aeb570879c6</a>\n- <a href=\"https://github.com/Rignchen/templateGenerator/commit/46e0bcc22d1f71cafe72e41012326a0bb1bae105\">46e0bcc22d1f71<strong>cafe</strong>72e41012326a0bb1bae105</a>",
+    "body": "- <a href=\"https://github.com/Rignchen/dotfile/commit/67d6da2cafe626cc797020d8dc4038efa77e7adc\">67d6da2<strong>cafe</strong>626cc797020d8dc4038efa77e7adc</a>\n- <a href=\"https://github.com/Rignchen/templateGenerator/commit/46e0bcc22d1f71cafe72e41012326a0bb1bae105\">46e0bcc22d1f71<strong>cafe</strong>72e41012326a0bb1bae105</a>\n- <a href=\"https://github.com/Rignchen/grades-calculator/commit/2a31049c531fac373e76cafe8cdc8aeb570879c6\">2a31049c531fac373e76<strong>cafe</strong>8cdc8aeb570879c6</a>\n- <a href=\"https://github.com/Rignchen/Gigantica/commit/b46fcacafea9c6c64d188887b85a14df247f15ab\">b46fca<strong>cafe</strong>a9c6c64d188887b85a14df247f15ab</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/d0920cacafe1efd0a48144184150431a62bfaaf2\">d0920ca<strong>cafe</strong>1efd0a48144184150431a62bfaaf2</a>",
     "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
   },
   {
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/depot/commit/daa2dad4ec1dea62b817d38f9f7f5127cf38a58d\">daa2dad</a>: chore(workflow): setup action to assign reviewer (#24)\n\n* chore(workflow): setup action to assign reviewer\r\n\r\n* chore(workflow): assign pr author to pr",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/worm_hole/commit/c32493ace417e734b450d9d17677c99221858573\">c32493a</a>: chore(cli): setup basic clap",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -38,7 +38,7 @@
     "id": "dead-commit",
     "tier": 0,
     "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/Rignchen/htmlCompiler/commit/8e87600e6ddead4d8c8ecf97f759702b76b99759\">8e87600e6d<strong>dead</strong>4d8c8ecf97f759702b76b99759</a>\n- <a href=\"https://github.com/Rignchen/vim-http/commit/0d7efa353370deadffc32db3be859fcbd754da94\">0d7efa353370<strong>dead</strong>ffc32db3be859fcbd754da94</a>",
+    "body": "- <a href=\"https://github.com/Rignchen/vim-http/commit/0d7efa353370deadffc32db3be859fcbd754da94\">0d7efa353370<strong>dead</strong>ffc32db3be859fcbd754da94</a>\n- <a href=\"https://github.com/Rignchen/htmlCompiler/commit/8e87600e6ddead4d8c8ecf97f759702b76b99759\">8e87600e6d<strong>dead</strong>4d8c8ecf97f759702b76b99759</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
@@ -52,7 +52,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/jordyBSK/ex-postgress/commit/22be47e03461001fc099c35b68da505eb755d134\">22be47e</a>\n- <a href=\"https://github.com/jordyBSK/ex-postgress/commit/369b2ff9d5a0f2a2fa8e5f486cdde62da1937b90\">369b2ff</a>\n- <a href=\"https://github.com/jordyBSK/ex-postgress/commit/2e3903c1a8435e18d4952b1254d5f3c9077885b1\">2e3903c</a>\n- <a href=\"https://github.com/Rignchen/climat_guardian/commit/308e75f8c714b8466671d31e37eb02b24eb0a15d\">308e75f</a>\n- <a href=\"https://github.com/Rignchen/climat_guardian/commit/9042cb98762df4a3d1809ede8ee7b77b1225f5da\">9042cb9</a>\n- <a href=\"https://github.com/Rignchen/depot/commit/25f4fe07aebd52852b70725fd52672683c9314af\">25f4fe0</a>\n- <a href=\"https://github.com/Rignchen/ex-postgress/commit/22be47e03461001fc099c35b68da505eb755d134\">22be47e</a>\n- <a href=\"https://github.com/Rignchen/ex-postgress/commit/369b2ff9d5a0f2a2fa8e5f486cdde62da1937b90\">369b2ff</a>\n- <a href=\"https://github.com/Rignchen/ex-postgress/commit/2e3903c1a8435e18d4952b1254d5f3c9077885b1\">2e3903c</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/depot/commit/25f4fe07aebd52852b70725fd52672683c9314af\">25f4fe0</a>\n- <a href=\"https://github.com/Rignchen/climat_guardian/commit/308e75f8c714b8466671d31e37eb02b24eb0a15d\">308e75f</a>\n- <a href=\"https://github.com/Rignchen/climat_guardian/commit/9042cb98762df4a3d1809ede8ee7b77b1225f5da\">9042cb9</a>\n- <a href=\"https://github.com/Rignchen/ex-postgress/commit/22be47e03461001fc099c35b68da505eb755d134\">22be47e</a>\n- <a href=\"https://github.com/Rignchen/ex-postgress/commit/369b2ff9d5a0f2a2fa8e5f486cdde62da1937b90\">369b2ff</a>\n- <a href=\"https://github.com/Rignchen/ex-postgress/commit/2e3903c1a8435e18d4952b1254d5f3c9077885b1\">2e3903c</a>\n- <a href=\"https://github.com/jordyBSK/ex-postgress/commit/22be47e03461001fc099c35b68da505eb755d134\">22be47e</a>\n- <a href=\"https://github.com/jordyBSK/ex-postgress/commit/369b2ff9d5a0f2a2fa8e5f486cdde62da1937b90\">369b2ff</a>\n- <a href=\"https://github.com/jordyBSK/ex-postgress/commit/2e3903c1a8435e18d4952b1254d5f3c9077885b1\">2e3903c</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
@@ -66,14 +66,14 @@
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack-ResourcePack/commit/ec3b51bb30d08fa77cd013298bb3142c551b0c67\">ec3b51b</a>: Fix Rocket\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack-ResourcePack/commit/b8974dd4b492f1950b171b04acc7150ce75f50b0\">b8974dd</a>: Fix Rocket",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/worm_hole/commit/fc51c60ad4fb91f0234a43c4ba1f64611a2b9015\">fc51c60</a>: fix(bash): bug where the database file wouldn't come in the alias\n- <a href=\"https://github.com/Rignchen/worm_hole/commit/6a9a81de7349158f7fd9baf12e2520d228b986eb\">6a9a81d</a>: fix: init can now use relative path",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dotfile/commit/0a5da780b819203baea1a2a52fce357ff5446486\">0a5da78</a>: fix(kitty): allow to zoom without numpad\n- <a href=\"https://github.com/Rignchen/dotfile/commit/c9d37661ddfbecf639410ef12e73e8908d30641d\">c9d3766</a>: fix(git): get-url now realy get branch name\n- <a href=\"https://github.com/Rignchen/dotfile/commit/be224b46b4b2cc5b5c66f2e9f85c69de7604247c\">be224b4</a>: fix(omp): no more unwanted new line",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/worm_hole/commit/9bbd75547c303054d1ca02785ddf76d2b60fc66b\">9bbd755</a>: fix: send error message when path to alias no longer exist\n- <a href=\"https://github.com/Rignchen/worm_hole/commit/9aa00b97c4b5c419fed545912bfce5b38eeca4c6\">9aa00b9</a>: fix: output a clean error when alias not found\n- <a href=\"https://github.com/Rignchen/worm_hole/commit/d4610091fee79c5b3cd0d254a1baabfc4ce43345\">d461009</a>: fix: don't allow to put aliases on files",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dotfile/commit/67d6da2cafe626cc797020d8dc4038efa77e7adc\">67d6da2</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/f67b64d6652b3ddb2a23680005219d0d9f58da4d\">f67b64d</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/83d975b23939a7e4750e5ea4bc175b4a022acbe3\">83d975b</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/2974265ca1d8a8d00a304c14b9e2dcffdcc6654c\">2974265</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/c042ee9924b2c1b119d6c41cc7acbe2c0e76d035\">c042ee9</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/342b6f2cd02b00d814409609d1a2bd74f440a8a5\">342b6f2</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/c3f4f01bff3e3e566a891a4283519c2c8d392570\">c3f4f01</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/67d6da2cafe626cc797020d8dc4038efa77e7adc\">67d6da2</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/f67b64d6652b3ddb2a23680005219d0d9f58da4d\">f67b64d</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/83d975b23939a7e4750e5ea4bc175b4a022acbe3\">83d975b</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/2974265ca1d8a8d00a304c14b9e2dcffdcc6654c\">2974265</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/c042ee9924b2c1b119d6c41cc7acbe2c0e76d035\">c042ee9</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
@@ -124,5 +124,12 @@
     "desc": "I committed on the Halloween! Boo!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/depot/commit/25f4fe07aebd52852b70725fd52672683c9314af\">25f4fe0</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/2c23cb32f15b0a24a821eda7ee5b244efe5ac95b\">2c23cb3</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/6b31a11e86f15d59249059da3b6a796384412326\">6b31a11</a>",
     "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/PiggyPigCute/GalactiPack-ResourcePack/pull/1\">👀</a>\n* <a href=\"https://github.com/PiggyPigCute/GalactiPack-ResourcePack/pull/1\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   }
 ]
