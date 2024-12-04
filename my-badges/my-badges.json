@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"feat:\".",
-    "body": "My favorite commit message words are:\n\n1. feat: (used 592 times)\n2. the (used 579 times)\n3. to (used 524 times)\n4. add (used 367 times)\n5. in (used 257 times)",
+    "body": "My favorite commit message words are:\n\n1. feat: (used 592 times)\n2. the (used 582 times)\n3. to (used 528 times)\n4. add (used 371 times)\n5. in (used 262 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -94,21 +94,21 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/a857106177fa287776ba7e164dcb09dce2f4c6b2\">a857106</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/91b2e7fde8901aeb1f68a8e2a289f7376928ae1a\">91b2e7f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/987b6773abf094100d8b227d031b63613ea04f69\">987b677</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/cae4c19684e382f57e654db135fb7fa516017d2a\">cae4c19</a>\n- <a href=\"https://github.com/LTHCTheMaster/DPJAMAOUT2023/commit/4a3a640f9dba6ea1da8e4ec996eaa41cd2e4c2c5\">4a3a640</a>\n- <a href=\"https://github.com/Rignchen/Switch/commit/304afe32561846721e25039fd6ad57cb6d6377a8\">304afe3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/c8c1e7738182ad354815fdb4ce0f2a32518f31ac\">c8c1e77</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/a857106177fa287776ba7e164dcb09dce2f4c6b2\">a857106</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/91b2e7fde8901aeb1f68a8e2a289f7376928ae1a\">91b2e7f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/987b6773abf094100d8b227d031b63613ea04f69\">987b677</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/cae4c19684e382f57e654db135fb7fa516017d2a\">cae4c19</a>\n- <a href=\"https://github.com/LTHCTheMaster/DPJAMAOUT2023/commit/4a3a640f9dba6ea1da8e4ec996eaa41cd2e4c2c5\">4a3a640</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/c3f4f01bff3e3e566a891a4283519c2c8d392570\">c3f4f01</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/67d6da2cafe626cc797020d8dc4038efa77e7adc\">67d6da2</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/f67b64d6652b3ddb2a23680005219d0d9f58da4d\">f67b64d</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/83d975b23939a7e4750e5ea4bc175b4a022acbe3\">83d975b</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/2974265ca1d8a8d00a304c14b9e2dcffdcc6654c\">2974265</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/c042ee9924b2c1b119d6c41cc7acbe2c0e76d035\">c042ee9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/5ad175a8016d2ce22d11bdaf4a98b4e1c5de07dc\">5ad175a</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/c3f4f01bff3e3e566a891a4283519c2c8d392570\">c3f4f01</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/67d6da2cafe626cc797020d8dc4038efa77e7adc\">67d6da2</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/f67b64d6652b3ddb2a23680005219d0d9f58da4d\">f67b64d</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/83d975b23939a7e4750e5ea4bc175b4a022acbe3\">83d975b</a>\n- <a href=\"https://github.com/Rignchen/Rignchen/commit/2974265ca1d8a8d00a304c14b9e2dcffdcc6654c\">2974265</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dotfile/commit/3d906b6f97da6b1ebc0da99ad5c77ae0bfcc0269\">3d906b6</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/97645cb5f5aa86e082571775487a6434e712432e\">97645cb</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/a715f045cd44a772e3b4480face87f1973110e67\">a715f04</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/615aefb7cb6d436084730083433c65a88a6afaad\">615aefb</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/271bc2ff8fa47d12adf41559a0a46132d2de78f8\">271bc2f</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/4e82455c5c2bbc7e3c49bfde1ee633a7882b37f8\">4e82455</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/e79f898572dbdfb78c25908a6293838ed9436c65\">e79f898</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/3d906b6f97da6b1ebc0da99ad5c77ae0bfcc0269\">3d906b6</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/97645cb5f5aa86e082571775487a6434e712432e\">97645cb</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/a715f045cd44a772e3b4480face87f1973110e67\">a715f04</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/615aefb7cb6d436084730083433c65a88a6afaad\">615aefb</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/271bc2ff8fa47d12adf41559a0a46132d2de78f8\">271bc2f</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
