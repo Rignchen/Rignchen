@@ -5,10 +5,10 @@
 My favorite commit message words are:
 
 1. feat: (used 592 times)
-2. * (used 450 times)
-3. add (used 372 times)
-4. fix: (used 145 times)
-5. update (used 114 times)
+2. add (used 372 times)
+3. fix: (used 145 times)
+4. update (used 114 times)
+5. file (used 110 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
