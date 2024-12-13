@@ -37,8 +37,8 @@
   {
     "id": "dead-commit",
     "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 2 times.",
-    "body": "- <a href=\"https://github.com/Rignchen/vim-http/commit/0d7efa353370deadffc32db3be859fcbd754da94\">0d7efa353370<strong>dead</strong>ffc32db3be859fcbd754da94</a>\n- <a href=\"https://github.com/Rignchen/htmlCompiler/commit/8e87600e6ddead4d8c8ecf97f759702b76b99759\">8e87600e6d<strong>dead</strong>4d8c8ecf97f759702b76b99759</a>",
+    "desc": "I pushed a commit with \"dead\" 3 times.",
+    "body": "- <a href=\"https://github.com/Rignchen/advent-of-code/commit/d14c11fbdb3f256adead178b14021424c9295097\">d14c11fbdb3f256a<strong>dead</strong>178b14021424c9295097</a>\n- <a href=\"https://github.com/Rignchen/vim-http/commit/0d7efa353370deadffc32db3be859fcbd754da94\">0d7efa353370<strong>dead</strong>ffc32db3be859fcbd754da94</a>\n- <a href=\"https://github.com/Rignchen/htmlCompiler/commit/8e87600e6ddead4d8c8ecf97f759702b76b99759\">8e87600e6d<strong>dead</strong>4d8c8ecf97f759702b76b99759</a>",
     "image": "https://my-badges.github.io/my-badges/dead-commit.png"
   },
   {
@@ -94,14 +94,14 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/cc73651981abf82b93439689fc6fa231f0e293a9\">cc73651</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/7a76498638fabca1a23a487e6ccdb9bc548d514f\">7a76498</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/bf7c16fad922488e71bf46977586a450ae15dc09\">bf7c16f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/70e5e72c3daca6ea20b50f9e0e90c03cee931910\">70e5e72</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/f76e80fe2a03bffbac362e96b0185174328b95ff\">f76e80f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/d47e72314214d7a3c615c5edb5e6655c3b75dd43\">d47e723</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/54ead942bc622e9bf0b46ce862d2f853e9734185\">54ead94</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/cc73651981abf82b93439689fc6fa231f0e293a9\">cc73651</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/7a76498638fabca1a23a487e6ccdb9bc548d514f\">7a76498</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/bf7c16fad922488e71bf46977586a450ae15dc09\">bf7c16f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/70e5e72c3daca6ea20b50f9e0e90c03cee931910\">70e5e72</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/f76e80fe2a03bffbac362e96b0185174328b95ff\">f76e80f</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/0b617b9897d0786662dcae51d6124cbf8ec71e48\">0b617b9</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/6874eb9c941b24c1a0152b1f1bb068fc92523506\">6874eb9</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/74aec2dafb6999416c9ccbc5fca8604e49ce6664\">74aec2d</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/1a987d6466932d0186b3ff612a92f8380893363c\">1a987d6</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/e64b9643b8393b943059e911ae8b7ba755c010e9\">e64b964</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/810626fdc306e5658ec437a67559c1af510b1809\">810626f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/d14c11fbdb3f256adead178b14021424c9295097\">d14c11f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/4624c342a95533aef9b542832be962a840a4f541\">4624c34</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/f73f9e09b102115371d6fbab6a8e2133b339bd20\">f73f9e0</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/42edefdb7235cadf80861eee0c4311e3d5a58200\">42edefd</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/0b617b9897d0786662dcae51d6124cbf8ec71e48\">0b617b9</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/6874eb9c941b24c1a0152b1f1bb068fc92523506\">6874eb9</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
