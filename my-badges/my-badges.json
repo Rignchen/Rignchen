@@ -31,7 +31,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/a52f6cc25170b13c667e434608d3b3e9aeb11eb2\">a52f6cc</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/be00c5dba05811d4db6f4253024c8658eefd9c6d\">be00c5d</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/0c7ad3891449e56e37880dded786fb375f62ca14\">0c7ad38</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/1eee504722a96898ece1db40224c186f87cabff5\">1eee504</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/3cb6f54b29b14f0e63da036c9b8cac2cd7d4fde0\">3cb6f54</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/f89d8bdb05ec6567407bd44511259896edc84f70\">f89d8bd</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/f07e6b4a4075e97b7ffe8ec871395a98099843e3\">f07e6b4</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/a52f6cc25170b13c667e434608d3b3e9aeb11eb2\">a52f6cc</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/be00c5dba05811d4db6f4253024c8658eefd9c6d\">be00c5d</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/0c7ad3891449e56e37880dded786fb375f62ca14\">0c7ad38</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/1eee504722a96898ece1db40224c186f87cabff5\">1eee504</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/3cb6f54b29b14f0e63da036c9b8cac2cd7d4fde0\">3cb6f54</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"feat:\".",
-    "body": "My favorite commit message words are:\n\n1. feat: (used 592 times)\n2. add (used 372 times)\n3. fix: (used 147 times)\n4. update (used 114 times)\n5. file (used 112 times)",
+    "body": "My favorite commit message words are:\n\n1. feat: (used 592 times)\n2. add (used 372 times)\n3. fix: (used 146 times)\n4. update (used 114 times)\n5. file (used 112 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/4a30ad757f1e608342278993298498751de39da8\">4a30ad7</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/a6bd8aaf497ff0e865c9f63f37ef62550916240d\">a6bd8aa</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/10c7ca2f2fd3ed65616f9729f04b836351cd7c43\">10c7ca2</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/6a6c7192101953f4a0a2f529750e3661f38df635\">6a6c719</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/6bbf76db0a4508bbedec974714500168a397beb0\">6bbf76d</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/28a8af32957d72fbb2825af60a2ca0c1c109c686\">28a8af3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/10c7ca2f2fd3ed65616f9729f04b836351cd7c43\">10c7ca2</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/6a6c7192101953f4a0a2f529750e3661f38df635\">6a6c719</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/6bbf76db0a4508bbedec974714500168a397beb0\">6bbf76d</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/28a8af32957d72fbb2825af60a2ca0c1c109c686\">28a8af3</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/543f29e10c4a67b69330b082ddd843ed9d7e61cd\">543f29e</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/26b9c336f234018a77d305c9a3a27a2405a912d3\">26b9c33</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
