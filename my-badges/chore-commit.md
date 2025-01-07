@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/worm_hole/commit/c32493ace417e734b450d9d17677c99221858573">c32493a</a>: chore(cli): setup basic clap
+- <a href="https://github.com/dwesh163/labo-docker/commit/f9c962b0c75fc792140937b89dd13efc04c23521">f9c962b</a>: chore: remove swap file (#19)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
