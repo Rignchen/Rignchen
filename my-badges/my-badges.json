@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"feat:\".",
-    "body": "My favorite commit message words are:\n\n1. feat: (used 605 times)\n2. add (used 377 times)\n3. fix: (used 146 times)\n4. update (used 123 times)\n5. file (used 113 times)",
+    "body": "My favorite commit message words are:\n\n1. feat: (used 605 times)\n2. add (used 378 times)\n3. fix: (used 146 times)\n4. update (used 124 times)\n5. file (used 114 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/d14c11fbdb3f256adead178b14021424c9295097\">d14c11f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/4624c342a95533aef9b542832be962a840a4f541\">4624c34</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/f73f9e09b102115371d6fbab6a8e2133b339bd20\">f73f9e0</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/42edefdb7235cadf80861eee0c4311e3d5a58200\">42edefd</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/0b617b9897d0786662dcae51d6124cbf8ec71e48\">0b617b9</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/6874eb9c941b24c1a0152b1f1bb068fc92523506\">6874eb9</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dotfile/commit/ca02ceb18ff6fb0f6c3d8ff2819fba5913488d3d\">ca02ceb</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/d14c11fbdb3f256adead178b14021424c9295097\">d14c11f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/4624c342a95533aef9b542832be962a840a4f541\">4624c34</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/f73f9e09b102115371d6fbab6a8e2133b339bd20\">f73f9e0</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/42edefdb7235cadf80861eee0c4311e3d5a58200\">42edefd</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/0b617b9897d0786662dcae51d6124cbf8ec71e48\">0b617b9</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
