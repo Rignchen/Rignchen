@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/dotfile/commit/ca02ceb18ff6fb0f6c3d8ff2819fba5913488d3d">ca02ceb</a>
-- <a href="https://github.com/Rignchen/advent-of-code/commit/d14c11fbdb3f256adead178b14021424c9295097">d14c11f</a>
-- <a href="https://github.com/Rignchen/advent-of-code/commit/4624c342a95533aef9b542832be962a840a4f541">4624c34</a>
-- <a href="https://github.com/Rignchen/advent-of-code/commit/f73f9e09b102115371d6fbab6a8e2133b339bd20">f73f9e0</a>
-- <a href="https://github.com/Rignchen/advent-of-code/commit/42edefdb7235cadf80861eee0c4311e3d5a58200">42edefd</a>
-- <a href="https://github.com/Rignchen/advent-of-code/commit/0b617b9897d0786662dcae51d6124cbf8ec71e48">0b617b9</a>
+- <a href="https://github.com/Rignchen/dotfile/commit/7cc88b895168264b3ccbe6c6fd3b12384ccee122">7cc88b8</a>
+- <a href="https://github.com/Rignchen/dotfile/commit/8bd93dbb78f8f332c7411169ebaa4b973f4756c4">8bd93db</a>
+- <a href="https://github.com/Rignchen/dotfile/commit/fca25c303345450fe2f27f8ad372b54b4741cdf8">fca25c3</a>
+- <a href="https://github.com/Rignchen/dotfile/commit/9fcaf6aa2cf8f8a1b8f5d88cb2c6cd3be1eefc39">9fcaf6a</a>
+- <a href="https://github.com/Rignchen/dotfile/commit/2ca4a617177e3420cf2f48baf86a14ae406d2eb8">2ca4a61</a>
+- <a href="https://github.com/Rignchen/dotfile/commit/f171718a748abcbee911e9d07da2d8910e0787da">f171718</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
