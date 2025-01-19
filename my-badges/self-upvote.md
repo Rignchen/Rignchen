@@ -2,8 +2,7 @@
 <strong>I liked my own comment so much that I upvoted it.</strong>
 <br><br>
 
-* <a href="https://github.com/PiggyPigCute/GalactiPack-ResourcePack/pull/1">👀</a>
-* <a href="https://github.com/PiggyPigCute/GalactiPack-ResourcePack/pull/1">👍</a>
+* <a href="https://github.com/my-badges/my-badges/pull/111#issuecomment-2599386344">😄</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
