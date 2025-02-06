@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/Rignchen/dotfile/commit/9e94723c3b5c27401316211d3a8ba11e42e3a294">9e94723</a>
+- <a href="https://github.com/Rignchen/dotfile/commit/7386e8e717117f7256d550ab6b89f337803c8669">7386e8e</a>
+- <a href="https://github.com/Rignchen/dotfile/commit/6f31242757c3d113e8309336dc5c3b7ed2f9041d">6f31242</a>
 - <a href="https://github.com/Rignchen/dotfile/commit/7cc88b895168264b3ccbe6c6fd3b12384ccee122">7cc88b8</a>
 - <a href="https://github.com/Rignchen/dotfile/commit/8bd93dbb78f8f332c7411169ebaa4b973f4756c4">8bd93db</a>
 - <a href="https://github.com/Rignchen/dotfile/commit/fca25c303345450fe2f27f8ad372b54b4741cdf8">fca25c3</a>
-- <a href="https://github.com/Rignchen/dotfile/commit/9fcaf6aa2cf8f8a1b8f5d88cb2c6cd3be1eefc39">9fcaf6a</a>
-- <a href="https://github.com/Rignchen/dotfile/commit/2ca4a617177e3420cf2f48baf86a14ae406d2eb8">2ca4a61</a>
-- <a href="https://github.com/Rignchen/dotfile/commit/f171718a748abcbee911e9d07da2d8910e0787da">f171718</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
