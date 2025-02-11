@@ -31,7 +31,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dotfile/commit/9218585d68445f44d38bdd83dd804500469203bd\">9218585</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/ffadcd0569f7192b8f7494d3a9b46558f6521cc3\">ffadcd0</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/9fcaf6aa2cf8f8a1b8f5d88cb2c6cd3be1eefc39\">9fcaf6a</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/f07e6b4a4075e97b7ffe8ec871395a98099843e3\">f07e6b4</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/a52f6cc25170b13c667e434608d3b3e9aeb11eb2\">a52f6cc</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/be00c5dba05811d4db6f4253024c8658eefd9c6d\">be00c5d</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dotfile/commit/582d84843f7a3879951f88831c27b7a9d27e0f04\">582d848</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/9218585d68445f44d38bdd83dd804500469203bd\">9218585</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/ffadcd0569f7192b8f7494d3a9b46558f6521cc3\">ffadcd0</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/9fcaf6aa2cf8f8a1b8f5d88cb2c6cd3be1eefc39\">9fcaf6a</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/f07e6b4a4075e97b7ffe8ec871395a98099843e3\">f07e6b4</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/a52f6cc25170b13c667e434608d3b3e9aeb11eb2\">a52f6cc</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 385 times)\n2. feat: (used 338 times)\n3. update (used 127 times)\n4. file (used 114 times)\n5. change (used 99 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 386 times)\n2. feat: (used 338 times)\n3. update (used 127 times)\n4. file (used 115 times)\n5. change (used 99 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dotfile/commit/9c90ff8f5c609f9edefa6884dd4e5819d021dc80\">9c90ff8</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/9e94723c3b5c27401316211d3a8ba11e42e3a294\">9e94723</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/7386e8e717117f7256d550ab6b89f337803c8669\">7386e8e</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/6f31242757c3d113e8309336dc5c3b7ed2f9041d\">6f31242</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/7cc88b895168264b3ccbe6c6fd3b12384ccee122\">7cc88b8</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/8bd93dbb78f8f332c7411169ebaa4b973f4756c4\">8bd93db</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dotfile/commit/6341fcafa523c9d4336202dbb548e3382b59514c\">6341fca</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/582d84843f7a3879951f88831c27b7a9d27e0f04\">582d848</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/15d216ed3cedc8b98b06a8142aaed266dd006155\">15d216e</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/dc20ac07c9030f3d5510ec8f892987645cbe5b3e\">dc20ac0</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/9c90ff8f5c609f9edefa6884dd4e5819d021dc80\">9c90ff8</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/9e94723c3b5c27401316211d3a8ba11e42e3a294\">9e94723</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
