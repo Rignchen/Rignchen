@@ -4,7 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/dwesh163/labo-docker/commit/f9c962b0c75fc792140937b89dd13efc04c23521">f9c962b</a>: chore: remove swap file (#19)
+- <a href="https://github.com/Rignchen/322_browser_client/commit/564cfdfebc8189c40391149d8bfe00c7aff307b8">564cfdf</a>: chore: remove test files (#10)
+
+We are not using tests therefore test files are useless to us
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
