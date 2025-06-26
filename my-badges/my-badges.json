@@ -166,5 +166,12 @@
     "desc": "I have four public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
+  },
+  {
+    "id": "winter-solstice-commits",
+    "tier": 0,
+    "desc": "I commit in the Winter solstice.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Stoupy51/TheFrostiaDimension/commit/9268e847b003df88d59f5754bb9bd30da47dd0ae\">9268e84</a>",
+    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
   }
 ]
