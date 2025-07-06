@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/218974eb90ee1591fdb5c91eb152c2a3456a78f3">218974e</a>
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/5b9c0708c7deb00ea2bf97e0bfea596fa1ee8649">5b9c070</a>
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/4d2f2744b6f389b36d88f5be5c9d9203e44e0e04">4d2f274</a>
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/717623c4241dfe513c6af6d174582c95744a2bf2">717623c</a>
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/756b4228a8790f76044a645caf9f415747c82ea2">756b422</a>
 - <a href="https://github.com/Rignchen/depot/commit/a1a4cad7091b689fc24dde3783e35177cd9db83a">a1a4cad</a>
-- <a href="https://github.com/Rignchen/dotfile/commit/8166e098e87aab3ae92a98888bc84b3174d0133a">8166e09</a>
-- <a href="https://github.com/Rignchen/advent-of-code/commit/10c7ca2f2fd3ed65616f9729f04b836351cd7c43">10c7ca2</a>
-- <a href="https://github.com/Rignchen/advent-of-code/commit/6a6c7192101953f4a0a2f529750e3661f38df635">6a6c719</a>
-- <a href="https://github.com/Rignchen/advent-of-code/commit/6bbf76db0a4508bbedec974714500168a397beb0">6bbf76d</a>
-- <a href="https://github.com/Rignchen/advent-of-code/commit/28a8af32957d72fbb2825af60a2ca0c1c109c686">28a8af3</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
