@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/218974eb90ee1591fdb5c91eb152c2a3456a78f3">218974e</a>
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/5b9c0708c7deb00ea2bf97e0bfea596fa1ee8649">5b9c070</a>
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/4d2f2744b6f389b36d88f5be5c9d9203e44e0e04">4d2f274</a>
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/717623c4241dfe513c6af6d174582c95744a2bf2">717623c</a>
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/756b4228a8790f76044a645caf9f415747c82ea2">756b422</a>
-- <a href="https://github.com/Rignchen/depot/commit/a1a4cad7091b689fc24dde3783e35177cd9db83a">a1a4cad</a>
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/cc860399ca05f5ea5ce311200fd99cb13078af7c">cc86039</a>
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/2c8d153caccf550e9bad3a2da8d6e86bb293159d">2c8d153</a>
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/447f688e5511d7c34a73152224554023293f53a0">447f688</a>
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/a2440a712b64753d31fa3e2ecfdb92edab1dd1c3">a2440a7</a>
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/8aab3ea76d8b205ce10c971ee0b21a5f62909760">8aab3ea</a>
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/599ad7d6933e2761a652f99f9b09cc5c51302e41">599ad7d</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
