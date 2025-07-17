@@ -4,9 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/322_browser_client/commit/564cfdfebc8189c40391149d8bfe00c7aff307b8">564cfdf</a>: chore: remove test files (#10)
-
-We are not using tests therefore test files are useless to us
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/e5c248c6c57712181f244fd5e1cf149014154b86">e5c248c</a>: chore
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

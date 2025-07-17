@@ -24,7 +24,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/564cfdfebc8189c40391149d8bfe00c7aff307b8\">564cfdf</a>: chore: remove test files (#10)\n\nWe are not using tests therefore test files are useless to us",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/e5c248c6c57712181f244fd5e1cf149014154b86\">e5c248c</a>: chore",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 393 times)\n2. feat: (used 338 times)\n3. update (used 128 times)\n4. file (used 119 times)\n5. change (used 99 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 400 times)\n2. feat: (used 338 times)\n3. update (used 128 times)\n4. file (used 119 times)\n5. change (used 100 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/c92a3b4febbac8ccd59b16abc8871bea33e8434f\">c92a3b4</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/6fbbfb735dfb83959dac011061178760abca75ee\">6fbbfb7</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/691bdb1ca22807c0bd26b86737148e2e75d43c84\">691bdb1</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/2c8d153caccf550e9bad3a2da8d6e86bb293159d\">2c8d153</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/447f688e5511d7c34a73152224554023293f53a0\">447f688</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/a2440a712b64753d31fa3e2ecfdb92edab1dd1c3\">a2440a7</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/f7dc90428883836b8db143a0b8f258a02fdd7e5e\">f7dc904</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/bb7966c4ec131bd34b689f4f1c8f1652a3c630de\">bb7966c</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/d434704b880b10d47efb9d96a6c3e01d45c25d24\">d434704</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/c05ad7c1e6b0fb78d999d2fefab5a6ec65ce844c\">c05ad7c</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/8829619691abe82456686217add54ac689e78b25\">8829619</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/41fa7d441190776ebe3139065727c6976d29f999\">41fa7d4</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
