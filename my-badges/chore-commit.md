@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/a17d5327d2a20ac7b044ec86a95ebb3ce71f4634">a17d532</a>: chore: unify name of components
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/5e5784aed1b600bcb5fc8b10618431897a9b03d0">5e5784a</a>: chore(docker): capital case AS
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

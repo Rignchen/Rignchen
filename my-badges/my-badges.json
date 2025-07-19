@@ -24,7 +24,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/a17d5327d2a20ac7b044ec86a95ebb3ce71f4634\">a17d532</a>: chore: unify name of components",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/5e5784aed1b600bcb5fc8b10618431897a9b03d0\">5e5784a</a>: chore(docker): capital case AS",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 400 times)\n2. feat: (used 338 times)\n3. update (used 128 times)\n4. file (used 119 times)\n5. change (used 100 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 401 times)\n2. feat: (used 338 times)\n3. update (used 129 times)\n4. file (used 122 times)\n5. change (used 100 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,7 +87,7 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/54ead942bc622e9bf0b46ce862d2f853e9734185\">54ead94</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/cc73651981abf82b93439689fc6fa231f0e293a9\">cc73651</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/7a76498638fabca1a23a487e6ccdb9bc548d514f\">7a76498</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/bf7c16fad922488e71bf46977586a450ae15dc09\">bf7c16f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/70e5e72c3daca6ea20b50f9e0e90c03cee931910\">70e5e72</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/f76e80fe2a03bffbac362e96b0185174328b95ff\">f76e80f</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/98efad752bbe27c5d137bd9db1263a7d770cf219\">98efad7</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/54ead942bc622e9bf0b46ce862d2f853e9734185\">54ead94</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/cc73651981abf82b93439689fc6fa231f0e293a9\">cc73651</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/7a76498638fabca1a23a487e6ccdb9bc548d514f\">7a76498</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/bf7c16fad922488e71bf46977586a450ae15dc09\">bf7c16f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/70e5e72c3daca6ea20b50f9e0e90c03cee931910\">70e5e72</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
