@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/5e5784aed1b600bcb5fc8b10618431897a9b03d0">5e5784a</a>: chore(docker): capital case AS
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/ee6b414f8c1ce71811cc87d21fd50912aed54848">ee6b414</a>: chore: add data in csv
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
