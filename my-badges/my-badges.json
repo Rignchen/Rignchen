@@ -59,14 +59,14 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 406 times)\n2. feat: (used 338 times)\n3. update (used 129 times)\n4. file (used 122 times)\n5. change (used 100 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 408 times)\n2. feat: (used 338 times)\n3. update (used 129 times)\n4. file (used 122 times)\n5. change (used 100 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
     "id": "fix-2",
     "tier": 1,
     "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/fa4df5b2aa0f0d660bb90cdd20cc262289ff655e\">fa4df5b</a>: fix(404): responsive on mobile phone\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/6e87d48fde4dd85b6f44a516d1c897bf1ee39d98\">6e87d48</a>: fix(word): look like mockup",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/4d41820718063dd2dc7b99260bcf5848d1e1b91a\">4d41820</a>: fix: typo\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/c7bca8e889daa5fc364b0699a997643c678d6c0f\">c7bca8e</a>: fix: no new line at the end of a list",
     "image": "https://my-badges.github.io/my-badges/fix-2.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/d0ad09fc67b1527d3bd03a2dad11f53c503d409b\">d0ad09f</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/a97d6fb8c7376899f87adc2209169fe8b8f5864e\">a97d6fb</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/4cd66057316216eaa035d2de574f689dc26c2f25\">4cd6605</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/820c7245716c06570d97012c5187da4576423661\">820c724</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/8954656c65ece3d30ca6a75765519d326d2c26c9\">8954656</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/98ad7dbc369eded0fa5943ec04721a7ddb276006\">98ad7db</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/cc4009e37aa86d34243f0618613bf6a24b6a8666\">cc4009e</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/9fb9bdb3730c43f708f7f7bec73e5eeb848ffac5\">9fb9bdb</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/e7e31717330a8b1e726b606361985f115988c65a\">e7e3171</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/d0ad09fc67b1527d3bd03a2dad11f53c503d409b\">d0ad09f</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/a97d6fb8c7376899f87adc2209169fe8b8f5864e\">a97d6fb</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/4cd66057316216eaa035d2de574f689dc26c2f25\">4cd6605</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {

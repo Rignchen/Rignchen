@@ -4,8 +4,8 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/fa4df5b2aa0f0d660bb90cdd20cc262289ff655e">fa4df5b</a>: fix(404): responsive on mobile phone
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/6e87d48fde4dd85b6f44a516d1c897bf1ee39d98">6e87d48</a>: fix(word): look like mockup
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/4d41820718063dd2dc7b99260bcf5848d1e1b91a">4d41820</a>: fix: typo
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/c7bca8e889daa5fc364b0699a997643c678d6c0f">c7bca8e</a>: fix: no new line at the end of a list
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
