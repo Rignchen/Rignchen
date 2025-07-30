@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 410 times)\n2. feat: (used 338 times)\n3. update (used 129 times)\n4. file (used 122 times)\n5. change (used 100 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 416 times)\n2. feat: (used 338 times)\n3. update (used 129 times)\n4. file (used 122 times)\n5. change (used 103 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/6a9916abbc6632feb92cdaee6b0a8aff40a4defb\">6a9916a</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/a3836252476fc8dd6905b819a5d0867fb8835369\">a383625</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
