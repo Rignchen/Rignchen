@@ -4,7 +4,7 @@
 
 Pull requests:
 
-- <a href="https://github.com/my-badges/my-badges/pull/110">#110</a>
+- <a href="https://github.com/my-badges/my-badges/pull/110">#110</a>: feat(favorite-word): ignore conventional commit
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
