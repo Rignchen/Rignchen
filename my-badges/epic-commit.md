@@ -4,6 +4,8 @@
 
 Commits:
 
+- <a href="https://github.com/Rignchen/sw/commit/b6e7bfc77ef16749f8f397f90421245d497f1441">b6e7bfc</a>
+- <a href="https://github.com/Rignchen/sw/commit/9fbb77dc754b058cda3d7ab052ca9fc3d3076fcd">9fbb77d</a>
 - <a href="https://github.com/dwesh163/labo-docker/commit/613eed82e8b1064a178a01fdf8e9b3568e6a23ce">613eed8</a>
 - <a href="https://github.com/Rignchen/depot/commit/25f4fe07aebd52852b70725fd52672683c9314af">25f4fe0</a>
 - <a href="https://github.com/Rignchen/climat_guardian/commit/308e75f8c714b8466671d31e37eb02b24eb0a15d">308e75f</a>
