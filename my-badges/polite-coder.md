@@ -4,6 +4,7 @@
 
 I use words like "thanks" and "please" in my issues:
 
+- <a href="https://github.com/nushell/nufmt/issues/74">#74</a>: Return invalid code when no `,` in nuon
 - <a href="https://github.com/ajeetdsouza/zoxide/issues/813">#813</a>: aarch64-linux-android not packaged
 - <a href="https://github.com/clap-rs/clap/issues/5581">#5581</a>: `#[clap(num_args = 2..)]` is valid with 0 arguments
 
