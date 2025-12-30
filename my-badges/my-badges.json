@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 454 times)\n2. feat: (used 358 times)\n3. update (used 133 times)\n4. file (used 132 times)\n5. change (used 104 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 455 times)\n2. feat: (used 358 times)\n3. update (used 133 times)\n4. file (used 132 times)\n5. change (used 104 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -108,7 +108,7 @@
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/Gigantica/commit/89581172350063262fbd24ae7ec3455163add8f1\">8958117</a>\n- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/345345b2473e5584182a24e6688e6ed417b961b4\">345345b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/731574006ab54009c15f824c0ca01369beb45f18\">7315740</a>\n- <a href=\"https://github.com/Rignchen/Gigantica/commit/89581172350063262fbd24ae7ec3455163add8f1\">8958117</a>\n- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/345345b2473e5584182a24e6688e6ed417b961b4\">345345b</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -173,5 +173,12 @@
     "desc": "I commit in the Winter solstice.",
     "body": "Commits:\n\n- <a href=\"https://github.com/Stoupy51/TheFrostiaDimension/commit/9268e847b003df88d59f5754bb9bd30da47dd0ae\">9268e84</a>",
     "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
+  },
+  {
+    "id": "old-issue-1",
+    "tier": 1,
+    "desc": "I closed an issue that was open for a year",
+    "body": "Issues:\n\n- <a href=\"https://github.com/museebolo/climat_guardian/issues/100\">#100</a>: clean .env",
+    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
   }
 ]

@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/Rignchen/dgm-lexicon/commit/731574006ab54009c15f824c0ca01369beb45f18">7315740</a>
 - <a href="https://github.com/Rignchen/Gigantica/commit/89581172350063262fbd24ae7ec3455163add8f1">8958117</a>
 - <a href="https://github.com/Rignchen/MatliceSorcery2/commit/345345b2473e5584182a24e6688e6ed417b961b4">345345b</a>
 
