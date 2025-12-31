@@ -180,5 +180,12 @@
     "desc": "I closed an issue that was open for a year",
     "body": "Issues:\n\n- <a href=\"https://github.com/museebolo/climat_guardian/issues/100\">#100</a>: clean .env",
     "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "pi-day",
+    "tier": 0,
+    "desc": "Happy March 14th! I committed on a Pi Day!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/faa70d888fd4b55cfe73c925fdb05470375584d0\">faa70d8</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/b651921ee0e0b7f62f776146ffe0c93be7d6afe8\">b651921</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/8c23d7cebf86381dc91fe25074ea506a573f656b\">8c23d7c</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/6c34b20b8302904e90b37a4aa2c3ccf39ada06c5\">6c34b20</a>",
+    "image": "https://my-badges.github.io/my-badges/pi-day.png"
   }
 ]
