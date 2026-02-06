@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 458 times)\n2. feat: (used 358 times)\n3. update (used 133 times)\n4. file (used 132 times)\n5. change (used 104 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 459 times)\n2. feat: (used 358 times)\n3. update (used 133 times)\n4. file (used 132 times)\n5. change (used 104 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/04e2ee60ac77af5555c07ad4883d0ec3e0f19184\">04e2ee6</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/7d0b66b913ea1672ab8acf891e4aa21417b2cc51\">7d0b66b</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/827d2a2b0697f511134201d8c0ff87ce3950eee8\">827d2a2</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/7b7f322cc5ec6665881d5931a8446cf627d9e4c3\">7b7f322</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/a8ac0d43d497056105492aceb43e37680944c276\">a8ac0d4</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/95430616f01edbade052a8fc28b64f8d81e633f1\">9543061</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/b3649f6960f0a00440f60b0ff150ddb86c41c29b\">b3649f6</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/e47f004d30f52f018866c7cd7cde2f69f1eedff8\">e47f004</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/5fd95c2bf12b5763faf990771ccdfdab0441650e\">5fd95c2</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/3027323d370316d6fba9839ffdec24581a35c572\">3027323</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/04e2ee60ac77af5555c07ad4883d0ec3e0f19184\">04e2ee6</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/7d0b66b913ea1672ab8acf891e4aa21417b2cc51\">7d0b66b</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -161,13 +161,6 @@
     "image": "https://my-badges.github.io/my-badges/friday-13.png"
   },
   {
-    "id": "public-keys-4",
-    "tier": 4,
-    "desc": "I have four public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-4.png"
-  },
-  {
     "id": "winter-solstice-commits",
     "tier": 0,
     "desc": "I commit in the Winter solstice.",
@@ -201,5 +194,12 @@
     "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
     "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/601c8cca760435191922eb0d9c32f104a8f6a879\">601c8cc</a>",
     "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
