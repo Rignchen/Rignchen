@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/Rignchen/yog-wiki/commit/7fa871d4724e6c11334ce06f44ac4165ee3d8879">7fa871d</a>
+- <a href="https://github.com/Rignchen/yog-wiki/commit/5a840dc06f47c632c72ab1ce328af4902d6a9517">5a840dc</a>
+- <a href="https://github.com/Rignchen/yog-wiki/commit/8a489fab67415ee1d6dac8247968b45cab65b972">8a489fa</a>
+- <a href="https://github.com/Rignchen/yog-wiki/commit/e87770ca6ee32833a694e2748432fc7fb2b069d9">e87770c</a>
+- <a href="https://github.com/Rignchen/yog-wiki/commit/f71edaed698119889e6374d1011f30fd5bb4cca8">f71edae</a>
 - <a href="https://github.com/Rignchen/yog-wiki/commit/b3649f6960f0a00440f60b0ff150ddb86c41c29b">b3649f6</a>
-- <a href="https://github.com/Rignchen/yog-wiki/commit/e47f004d30f52f018866c7cd7cde2f69f1eedff8">e47f004</a>
-- <a href="https://github.com/Rignchen/yog-wiki/commit/5fd95c2bf12b5763faf990771ccdfdab0441650e">5fd95c2</a>
-- <a href="https://github.com/Rignchen/yog-wiki/commit/3027323d370316d6fba9839ffdec24581a35c572">3027323</a>
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/04e2ee60ac77af5555c07ad4883d0ec3e0f19184">04e2ee6</a>
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/7d0b66b913ea1672ab8acf891e4aa21417b2cc51">7d0b66b</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
