@@ -5,6 +5,7 @@
 Pull requests:
 
 - <a href="https://github.com/Rignchen/yog-wiki/pull/2">#2</a>: ci: ensure code quality
+- <a href="https://github.com/Rignchen/yog-wiki/pull/3">#3</a>: fix/details
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -31,7 +31,7 @@
     "id": "cosmetic-commit",
     "tier": 0,
     "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/a877c110d86180eb9acd9628b58925d086823979\">a877c11</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/4b78a0d6feccd515a8bcb219a038cf76472ad91d\">4b78a0d</a>\n- <a href=\"https://github.com/Rignchen/worm_hole/commit/345cb7aa5d5669d7d91c93b91f354d38947adcfb\">345cb7a</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/582d84843f7a3879951f88831c27b7a9d27e0f04\">582d848</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/9218585d68445f44d38bdd83dd804500469203bd\">9218585</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/ffadcd0569f7192b8f7494d3a9b46558f6521cc3\">ffadcd0</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/a877c110d86180eb9acd9628b58925d086823979\">a877c11</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/5f276c4c485620fd58225254ba149be6ac8f805a\">5f276c4</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/4b78a0d6feccd515a8bcb219a038cf76472ad91d\">4b78a0d</a>\n- <a href=\"https://github.com/Rignchen/worm_hole/commit/345cb7aa5d5669d7d91c93b91f354d38947adcfb\">345cb7a</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/582d84843f7a3879951f88831c27b7a9d27e0f04\">582d848</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/9218585d68445f44d38bdd83dd804500469203bd\">9218585</a>",
     "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
   },
   {
@@ -101,7 +101,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/1d8a9ae8b5d64fff7b55742cb6d1da679bee46b0\">1d8a9ae</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/3f5b015d21ee7039826a6b590f8527752af294bc\">3f5b015</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/8e7c0b235ffc2d65cf95dfc8a176943c8b3f83a8\">8e7c0b2</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/7fa871d4724e6c11334ce06f44ac4165ee3d8879\">7fa871d</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/5a840dc06f47c632c72ab1ce328af4902d6a9517\">5a840dc</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/8a489fab67415ee1d6dac8247968b45cab65b972\">8a489fa</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/9ec5eec4498f025c1fd482198f4f8727f804bdf7\">9ec5eec</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/1d8a9ae8b5d64fff7b55742cb6d1da679bee46b0\">1d8a9ae</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/3f5b015d21ee7039826a6b590f8527752af294bc\">3f5b015</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/8e7c0b235ffc2d65cf95dfc8a176943c8b3f83a8\">8e7c0b2</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/7fa871d4724e6c11334ce06f44ac4165ee3d8879\">7fa871d</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/5a840dc06f47c632c72ab1ce328af4902d6a9517\">5a840dc</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -206,7 +206,7 @@
     "id": "this-is-fine",
     "tier": 0,
     "desc": "I merged a PR with failing checks",
-    "body": "Pull requests:\n\n- <a href=\"https://github.com/Rignchen/yog-wiki/pull/2\">#2</a>: ci: ensure code quality",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/Rignchen/yog-wiki/pull/2\">#2</a>: ci: ensure code quality\n- <a href=\"https://github.com/Rignchen/yog-wiki/pull/3\">#3</a>: fix/details",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
