@@ -59,7 +59,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 462 times)\n2. feat: (used 358 times)\n3. update (used 134 times)\n4. file (used 132 times)\n5. remove (used 105 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 462 times)\n2. feat: (used 358 times)\n3. update (used 134 times)\n4. file (used 132 times)\n5. change (used 106 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -87,28 +87,28 @@
     "id": "sleepy-coder",
     "tier": 0,
     "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/98efad752bbe27c5d137bd9db1263a7d770cf219\">98efad7</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/54ead942bc622e9bf0b46ce862d2f853e9734185\">54ead94</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/cc73651981abf82b93439689fc6fa231f0e293a9\">cc73651</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/7a76498638fabca1a23a487e6ccdb9bc548d514f\">7a76498</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/bf7c16fad922488e71bf46977586a450ae15dc09\">bf7c16f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/70e5e72c3daca6ea20b50f9e0e90c03cee931910\">70e5e72</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/98efad752bbe27c5d137bd9db1263a7d770cf219\">98efad7</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/54ead942bc622e9bf0b46ce862d2f853e9734185\">54ead94</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/cc73651981abf82b93439689fc6fa231f0e293a9\">cc73651</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/7a76498638fabca1a23a487e6ccdb9bc548d514f\">7a76498</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/bf7c16fad922488e71bf46977586a450ae15dc09\">bf7c16f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/70e5e72c3daca6ea20b50f9e0e90c03cee931910\">70e5e72</a>",
     "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
   },
   {
     "id": "morning-commits",
     "tier": 0,
     "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/sw/commit/2c1f1bf356c7d69c43c546a4c29e91d72827f09a\">2c1f1bf</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/19a49db28c73af4ae966cd0ac98307a7d53660e4\">19a49db</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/28a20cc39cff4c15596152b91ceca23d6ae49972\">28a20cc</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/94a1c014860f735d85b6d7a90d03641da1d7c812\">94a1c01</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/564cfdfebc8189c40391149d8bfe00c7aff307b8\">564cfdf</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/e9949ebea4901ce9d73ccf97735d247b8cb1f6aa\">e9949eb</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/sw/commit/2c1f1bf356c7d69c43c546a4c29e91d72827f09a\">2c1f1bf</a>\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/19a49db28c73af4ae966cd0ac98307a7d53660e4\">19a49db</a>\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/28a20cc39cff4c15596152b91ceca23d6ae49972\">28a20cc</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/94a1c014860f735d85b6d7a90d03641da1d7c812\">94a1c01</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/564cfdfebc8189c40391149d8bfe00c7aff307b8\">564cfdf</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/e9949ebea4901ce9d73ccf97735d247b8cb1f6aa\">e9949eb</a>",
     "image": "https://my-badges.github.io/my-badges/morning-commits.png"
   },
   {
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/eeedcc4b0e21b43dc6ff204554ccdc49fe699aaf\">eeedcc4</a>\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/2053e181decc2ca21c80f102bac2781495162b36\">2053e18</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/ff7f9bf688d00714849ce60de93ce9c251d98bec\">ff7f9bf</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/db1191ce5b820c024bf612dd8c274e4c447343b7\">db1191c</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/8416285f6d58f0ef90280baf3c6005b4ea6d336a\">8416285</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/a7c94c016ac7d06dff3bff5703e51bd8af750022\">a7c94c0</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/eeedcc4b0e21b43dc6ff204554ccdc49fe699aaf\">eeedcc4</a>\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/2053e181decc2ca21c80f102bac2781495162b36\">2053e18</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/ff7f9bf688d00714849ce60de93ce9c251d98bec\">ff7f9bf</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/db1191ce5b820c024bf612dd8c274e4c447343b7\">db1191c</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/8416285f6d58f0ef90280baf3c6005b4ea6d336a\">8416285</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/a7c94c016ac7d06dff3bff5703e51bd8af750022\">a7c94c0</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
     "id": "midnight-commits",
     "tier": 0,
     "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/731574006ab54009c15f824c0ca01369beb45f18\">7315740</a>\n- <a href=\"https://github.com/Rignchen/Gigantica/commit/89581172350063262fbd24ae7ec3455163add8f1\">8958117</a>\n- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/345345b2473e5584182a24e6688e6ed417b961b4\">345345b</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/731574006ab54009c15f824c0ca01369beb45f18\">7315740</a>\n- <a href=\"https://github.com/Rignchen/Gigantica/commit/89581172350063262fbd24ae7ec3455163add8f1\">8958117</a>\n- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/345345b2473e5584182a24e6688e6ed417b961b4\">345345b</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   },
   {
@@ -129,7 +129,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dgm-lexicon/commit/a3836252476fc8dd6905b819a5d0867fb8835369\">a383625</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/a3836252476fc8dd6905b819a5d0867fb8835369\">a383625</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {

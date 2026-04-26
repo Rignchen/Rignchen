@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/98efad752bbe27c5d137bd9db1263a7d770cf219">98efad7</a>
+- <a href="https://github.com/Rignchen/dmj-lexicon/commit/98efad752bbe27c5d137bd9db1263a7d770cf219">98efad7</a>
 - <a href="https://github.com/Rignchen/advent-of-code/commit/54ead942bc622e9bf0b46ce862d2f853e9734185">54ead94</a>
 - <a href="https://github.com/Rignchen/advent-of-code/commit/cc73651981abf82b93439689fc6fa231f0e293a9">cc73651</a>
 - <a href="https://github.com/Rignchen/advent-of-code/commit/7a76498638fabca1a23a487e6ccdb9bc548d514f">7a76498</a>

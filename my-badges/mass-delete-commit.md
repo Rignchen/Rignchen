@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/Rignchen/dgm-lexicon/commit/a3836252476fc8dd6905b819a5d0867fb8835369">a383625</a>
+- <a href="https://github.com/Rignchen/dmj-lexicon/commit/a3836252476fc8dd6905b819a5d0867fb8835369">a383625</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
