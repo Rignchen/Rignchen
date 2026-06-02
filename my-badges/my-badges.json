@@ -1,122 +1,10 @@
 [
   {
-    "id": "a-commit",
-    "tier": 1,
-    "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/a7996fc7fd8a1f2c837dd590e6e865243c05a68b\"><strong>a</strong>7996fc7fd8a1f2c837dd590e6e865243c05a68b</a>",
-    "image": "https://my-badges.github.io/my-badges/a-commit.png"
-  },
-  {
-    "id": "ab-commit",
-    "tier": 2,
-    "desc": "One of my commit sha starts with \"ab\".",
-    "body": "- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/ab489c4ce503cf566100b3257bdd9eeb231b3560\"><strong>ab</strong>489c4ce503cf566100b3257bdd9eeb231b3560</a>",
-    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
-  },
-  {
-    "id": "cafe-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"cafe\" 5 times.",
-    "body": "- <a href=\"https://github.com/Rignchen/dotfile/commit/67d6da2cafe626cc797020d8dc4038efa77e7adc\">67d6da2<strong>cafe</strong>626cc797020d8dc4038efa77e7adc</a>\n- <a href=\"https://github.com/Rignchen/templateGenerator/commit/46e0bcc22d1f71cafe72e41012326a0bb1bae105\">46e0bcc22d1f71<strong>cafe</strong>72e41012326a0bb1bae105</a>\n- <a href=\"https://github.com/Rignchen/grades-calculator/commit/2a31049c531fac373e76cafe8cdc8aeb570879c6\">2a31049c531fac373e76<strong>cafe</strong>8cdc8aeb570879c6</a>\n- <a href=\"https://github.com/Rignchen/Gigantica/commit/b46fcacafea9c6c64d188887b85a14df247f15ab\">b46fca<strong>cafe</strong>a9c6c64d188887b85a14df247f15ab</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/d0920cacafe1efd0a48144184150431a62bfaaf2\">d0920ca<strong>cafe</strong>1efd0a48144184150431a62bfaaf2</a>",
-    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
-  },
-  {
-    "id": "chore-commit",
-    "tier": 0,
-    "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/AME-Digitals/manifests/commit/af9bac61ca651dd5556e2088ac9b21f7d03c38b0\">af9bac6</a>: chore: more PODS in test",
-    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
-  },
-  {
-    "id": "cosmetic-commit",
-    "tier": 0,
-    "desc": "I made cosmetic commit.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/0b6c646441ff25ac3cdd2e8d7a6a2ae391818196\">0b6c646</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/dbbfcd15e91c06668a32b0061d401dfdeb2a9d84\">dbbfcd1</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/a877c110d86180eb9acd9628b58925d086823979\">a877c11</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/5f276c4c485620fd58225254ba149be6ac8f805a\">5f276c4</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/4b78a0d6feccd515a8bcb219a038cf76472ad91d\">4b78a0d</a>\n- <a href=\"https://github.com/Rignchen/worm_hole/commit/345cb7aa5d5669d7d91c93b91f354d38947adcfb\">345cb7a</a>",
-    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
-  },
-  {
-    "id": "dead-commit",
-    "tier": 0,
-    "desc": "I pushed a commit with \"dead\" 3 times.",
-    "body": "- <a href=\"https://github.com/Rignchen/advent-of-code/commit/d14c11fbdb3f256adead178b14021424c9295097\">d14c11fbdb3f256a<strong>dead</strong>178b14021424c9295097</a>\n- <a href=\"https://github.com/Rignchen/vim-http/commit/0d7efa353370deadffc32db3be859fcbd754da94\">0d7efa353370<strong>dead</strong>ffc32db3be859fcbd754da94</a>\n- <a href=\"https://github.com/Rignchen/htmlCompiler/commit/8e87600e6ddead4d8c8ecf97f759702b76b99759\">8e87600e6d<strong>dead</strong>4d8c8ecf97f759702b76b99759</a>",
-    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
-  },
-  {
-    "id": "delorean",
-    "tier": 0,
-    "desc": "I committed on the day Doctor Emmett Brown invented the flux capacitor!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dotfile/commit/7455e2cbddc0bf0356c38ba759acfb5398d1307a\">7455e2c</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/0bf58ed6cf442b6e2de638909f7d539d75109e1d\">0bf58ed</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/24138b6ebb0d3e8d509992b2686da2c921f46251\">24138b6</a>\n- <a href=\"https://github.com/Rignchen/Simplier/commit/080470c8b063f95f5a1d4a7dbadb73dcd67b4a28\">080470c</a>",
-    "image": "https://my-badges.github.io/my-badges/delorean.png"
-  },
-  {
-    "id": "epic-commit",
-    "tier": 0,
-    "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/sw/commit/b6e7bfc77ef16749f8f397f90421245d497f1441\">b6e7bfc</a>\n- <a href=\"https://github.com/Rignchen/sw/commit/9fbb77dc754b058cda3d7ab052ca9fc3d3076fcd\">9fbb77d</a>\n- <a href=\"https://github.com/dwesh163/labo-docker/commit/613eed82e8b1064a178a01fdf8e9b3568e6a23ce\">613eed8</a>\n- <a href=\"https://github.com/Rignchen/depot/commit/25f4fe07aebd52852b70725fd52672683c9314af\">25f4fe0</a>\n- <a href=\"https://github.com/Rignchen/climat_guardian/commit/308e75f8c714b8466671d31e37eb02b24eb0a15d\">308e75f</a>\n- <a href=\"https://github.com/Rignchen/climat_guardian/commit/9042cb98762df4a3d1809ede8ee7b77b1225f5da\">9042cb9</a>\n- <a href=\"https://github.com/Rignchen/ex-postgress/commit/22be47e03461001fc099c35b68da505eb755d134\">22be47e</a>\n- <a href=\"https://github.com/Rignchen/ex-postgress/commit/369b2ff9d5a0f2a2fa8e5f486cdde62da1937b90\">369b2ff</a>\n- <a href=\"https://github.com/Rignchen/ex-postgress/commit/2e3903c1a8435e18d4952b1254d5f3c9077885b1\">2e3903c</a>\n- <a href=\"https://github.com/jordyBSK/ex-postgress/commit/22be47e03461001fc099c35b68da505eb755d134\">22be47e</a>\n- <a href=\"https://github.com/jordyBSK/ex-postgress/commit/369b2ff9d5a0f2a2fa8e5f486cdde62da1937b90\">369b2ff</a>\n- <a href=\"https://github.com/jordyBSK/ex-postgress/commit/2e3903c1a8435e18d4952b1254d5f3c9077885b1\">2e3903c</a>",
-    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
-  },
-  {
-    "id": "favorite-word",
-    "tier": 0,
-    "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 462 times)\n2. feat: (used 358 times)\n3. update (used 134 times)\n4. file (used 132 times)\n5. change (used 107 times)",
-    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
-  },
-  {
-    "id": "fix-2",
-    "tier": 1,
-    "desc": "I did 2 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/9c5a1ab6a8ca683f7dd1fe2e8c5d3500d884d36b\">9c5a1ab</a>: fix: typo\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/2d5548eb863027ad413993022257fb53eec6300a\">2d5548e</a>: fix: initialize entriesData to avoid looping on undefined",
-    "image": "https://my-badges.github.io/my-badges/fix-2.png"
-  },
-  {
-    "id": "fix-3",
-    "tier": 2,
-    "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/d0ab924c8b28e7dac5115eeca4cf15d891f66172\">d0ab924</a>: fix: bg url with base href\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/d10e86b4b919c82afa72174ed16560910b9bfaf9\">d10e86b</a>: fix: static prerender to lowercase\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/267139b5c381cf6911ef9b9a18e4dc499847dc27\">267139b</a>: fix: types",
-    "image": "https://my-badges.github.io/my-badges/fix-3.png"
-  },
-  {
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
     "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/nushell/nufmt/issues/74\">#74</a>: Return invalid code when no `,` in nuon\n- <a href=\"https://github.com/ajeetdsouza/zoxide/issues/813\">#813</a>: aarch64-linux-android not packaged\n- <a href=\"https://github.com/clap-rs/clap/issues/5581\">#5581</a>: `#[clap(num_args = 2..)]` is valid with 0 arguments",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
-  },
-  {
-    "id": "sleepy-coder",
-    "tier": 0,
-    "desc": "I am a sleepy coder.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/98efad752bbe27c5d137bd9db1263a7d770cf219\">98efad7</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/54ead942bc622e9bf0b46ce862d2f853e9734185\">54ead94</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/cc73651981abf82b93439689fc6fa231f0e293a9\">cc73651</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/7a76498638fabca1a23a487e6ccdb9bc548d514f\">7a76498</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/bf7c16fad922488e71bf46977586a450ae15dc09\">bf7c16f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/70e5e72c3daca6ea20b50f9e0e90c03cee931910\">70e5e72</a>",
-    "image": "https://my-badges.github.io/my-badges/sleepy-coder.png"
-  },
-  {
-    "id": "morning-commits",
-    "tier": 0,
-    "desc": "I commit in the morning.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/sw/commit/2c1f1bf356c7d69c43c546a4c29e91d72827f09a\">2c1f1bf</a>\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/19a49db28c73af4ae966cd0ac98307a7d53660e4\">19a49db</a>\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/28a20cc39cff4c15596152b91ceca23d6ae49972\">28a20cc</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/94a1c014860f735d85b6d7a90d03641da1d7c812\">94a1c01</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/564cfdfebc8189c40391149d8bfe00c7aff307b8\">564cfdf</a>\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/e9949ebea4901ce9d73ccf97735d247b8cb1f6aa\">e9949eb</a>",
-    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
-  },
-  {
-    "id": "evening-commits",
-    "tier": 0,
-    "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/eeedcc4b0e21b43dc6ff204554ccdc49fe699aaf\">eeedcc4</a>\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/2053e181decc2ca21c80f102bac2781495162b36\">2053e18</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/ff7f9bf688d00714849ce60de93ce9c251d98bec\">ff7f9bf</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/db1191ce5b820c024bf612dd8c274e4c447343b7\">db1191c</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/8416285f6d58f0ef90280baf3c6005b4ea6d336a\">8416285</a>\n- <a href=\"https://github.com/Rignchen/yog-wiki/commit/a7c94c016ac7d06dff3bff5703e51bd8af750022\">a7c94c0</a>",
-    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
-  },
-  {
-    "id": "midnight-commits",
-    "tier": 0,
-    "desc": "I commit at midnight.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/731574006ab54009c15f824c0ca01369beb45f18\">7315740</a>\n- <a href=\"https://github.com/Rignchen/Gigantica/commit/89581172350063262fbd24ae7ec3455163add8f1\">8958117</a>\n- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/345345b2473e5584182a24e6688e6ed417b961b4\">345345b</a>",
-    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
-    "id": "spooky-commit",
-    "tier": 0,
-    "desc": "I committed on the Halloween! Boo!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/depot/commit/25f4fe07aebd52852b70725fd52672683c9314af\">25f4fe0</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/2c23cb32f15b0a24a821eda7ee5b244efe5ac95b\">2c23cb3</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/6b31a11e86f15d59249059da3b6a796384412326\">6b31a11</a>",
-    "image": "https://my-badges.github.io/my-badges/spooky-commit.png"
   },
   {
     "id": "self-upvote",
@@ -126,27 +14,6 @@
     "image": "https://my-badges.github.io/my-badges/self-upvote.png"
   },
   {
-    "id": "mass-delete-commit",
-    "tier": 1,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/dmj-lexicon/commit/a3836252476fc8dd6905b819a5d0867fb8835369\">a383625</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
-  },
-  {
-    "id": "mass-delete-commit-10k",
-    "tier": 2,
-    "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/6a9916abbc6632feb92cdaee6b0a8aff40a4defb\">6a9916a</a>",
-    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "leap-day",
-    "tier": 0,
-    "desc": "Happy February 29th! I committed on a Leap Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/TuringMC/commit/04aa2aac34b9a32f66793db737952c050019bd4d\">04aa2aa</a>\n- <a href=\"https://github.com/Rignchen/TuringMC/commit/32089f69587dfb22b717a9a44cc2f12de9f7c88e\">32089f6</a>\n- <a href=\"https://github.com/Rignchen/Split-esolang/commit/160981671a19e59962e281bd6d9e69d815dcb751\">1609816</a>",
-    "image": "https://my-badges.github.io/my-badges/leap-day.png"
-  },
-  {
     "id": "my-badges-contributor",
     "tier": 0,
     "desc": "I contributed to My Badges!",
@@ -154,46 +21,11 @@
     "image": "https://my-badges.github.io/my-badges/my-badges-contributor.png"
   },
   {
-    "id": "friday-13",
-    "tier": 0,
-    "desc": "I committed on Friday the 13th, One… By One…",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/c55824b73eb74c19c7677852544df1dbe8fb87fc\">c55824b</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/700257f49ebc01298b4324634b6f302b154efbd3\">700257f</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/2b0c54300f52e3d52a7f02991a6cfdd202170791\">2b0c543</a>\n- <a href=\"https://github.com/Rignchen/advent-of-code/commit/cfd6a5fe0d0f5cb89732b776bf6263597decc9b7\">cfd6a5f</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/1c307cb5cf2f4b17b72083edf635e913165eab67\">1c307cb</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/92b927820737959980c16a9e92e9f5ec61cfe93d\">92b9278</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/d92f6e88c61eb27d15685a2a0cabed328fcf4678\">d92f6e8</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/1ad6add7edb7d1bec9de08d4ecd838a11ea6865a\">1ad6add</a>\n- <a href=\"https://github.com/Rignchen/dotfile/commit/648a18421d86414d8ce2a8980644e1de564f3036\">648a184</a>\n- <a href=\"https://github.com/Rignchen/ex_java_bastien/commit/86cf6686316e58ddcb6f976b6207ceabfeafe7c3\">86cf668</a>\n- <a href=\"https://github.com/Rignchen/ticktacktoe/commit/ef1c3e576b35161d5c2e1b104193f2e3f236e92e\">ef1c3e5</a>\n- <a href=\"https://github.com/Rignchen/ticktacktoe/commit/7faffc32bfc3742cd346e5423fb7e4a6a954ba50\">7faffc3</a>\n- <a href=\"https://github.com/Rignchen/ticktacktoe/commit/827c5e8dbd3a282b2c8ff8effb96aeddbd048f35\">827c5e8</a>",
-    "image": "https://my-badges.github.io/my-badges/friday-13.png"
-  },
-  {
-    "id": "winter-solstice-commits",
-    "tier": 0,
-    "desc": "I commit in the Winter solstice.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Stoupy51/TheFrostiaDimension/commit/9268e847b003df88d59f5754bb9bd30da47dd0ae\">9268e84</a>",
-    "image": "https://my-badges.github.io/my-badges/winter-solstice-commits.png"
-  },
-  {
     "id": "old-issue-1",
     "tier": 1,
     "desc": "I closed an issue that was open for a year",
     "body": "Issues:\n\n- <a href=\"https://github.com/museebolo/climat_guardian/issues/100\">#100</a>: clean .env",
     "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
-  },
-  {
-    "id": "pi-day",
-    "tier": 0,
-    "desc": "Happy March 14th! I committed on a Pi Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/faa70d888fd4b55cfe73c925fdb05470375584d0\">faa70d8</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/b651921ee0e0b7f62f776146ffe0c93be7d6afe8\">b651921</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/8c23d7cebf86381dc91fe25074ea506a573f656b\">8c23d7c</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/6c34b20b8302904e90b37a4aa2c3ccf39ada06c5\">6c34b20</a>",
-    "image": "https://my-badges.github.io/my-badges/pi-day.png"
-  },
-  {
-    "id": "st-patricks-day",
-    "tier": 0,
-    "desc": "I committed on St. Patrick's Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/322_browser_client/commit/9beb554f8160f365dc93cd491175dc3d63ee4c27\">9beb554</a>\n- <a href=\"https://github.com/Rignchen/MyOwnLoot/commit/bedae11eb1e724917d0b05778cec6b0c3880fb99\">bedae11</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/42eb5ed463dd667120ef057fdf6a783f8e414c60\">42eb5ed</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/0f0e71b11439d75c662b34321abd091d1cd54024\">0f0e71b</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/6ab2792b18bbf25e0086572a845c4bdd4f495b64\">6ab2792</a>\n- <a href=\"https://github.com/PiggyPigCute/GalactiPack/commit/59df26518247f883b1a871cedf04ba082ce1fd7c\">59df265</a>",
-    "image": "https://my-badges.github.io/my-badges/st-patricks-day.png"
-  },
-  {
-    "id": "science-fiction-day",
-    "tier": 0,
-    "desc": "I committed on Isaac Asimov's birthday / National Science Fiction Day!",
-    "body": "Commits:\n\n- <a href=\"https://github.com/Rignchen/MatliceSorcery2/commit/601c8cca760435191922eb0d9c32f104a8f6a879\">601c8cc</a>",
-    "image": "https://my-badges.github.io/my-badges/science-fiction-day.png"
   },
   {
     "id": "this-is-fine",
